@@ -1,0 +1,6 @@
+adapter: postgres
+host: localhost
+user: danieltorres
+port: 5432
+# password: "password",
+database: envato
